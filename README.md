@@ -2,7 +2,7 @@
 
 Data Driven Portfolio:
 
- - Final Project 1, Goes into Detail 
- - Final Project, Goes into Detail 
- - Fincial Anyalysis, Part 1, Part 2, and Report are all Together, and Goes into Detail
- - SerranoMichael Exam Excel and Tableau Files are all Together, Goes into Detail 
+- Used Car Price Analysis, goes into detail on a statistical model in Excel to determine how variables such as car age and mileage affect    used car prices
+- Market Product Presentation, goes into detail on a marketing analysis on Apple Airpods that include consumer demographisc, price evaluation
+- Fincial Anyalysis, Part 1, Part 2, and Report are all Together, and goes into detail
+- SerranoMichael Exam Excel and Tableau Files are all Together, Goes into Detail 
